@@ -1,26 +1,23 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intermediate Python Lecture</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+By the end of this module, you'll have a solid understanding of intermediate Python concepts and be able to apply them effectively in your projects.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+| [Functions and Modular Code Organization](../functions-and-modular-code/README.md) | -- | Data Types and Manipulation deep dive.                |
+| [Modules and Packages](../modules-and-packages/README.md) | 35 min | Using functions and organizing code effectively.                |
+| [File Handling and Read/Write Operations](../file-manipulation/README.md) | 35 min | Utilizing modules and manipulating files to update data.                |
+| [Advanced Control Flow and Looping](../control-flow-and-looping/README.md) | 35 min | Utilizing flow control and loops.                |
+| [Debugging and Error Handling](../debugging-and-error-handling/README.md) | 35 min | Learn how to handle errors and debug your code.                |
+| **Total content**                                   | 175 min |                                     |
 
 ## References
 
