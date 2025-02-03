@@ -26,8 +26,8 @@ By the end of this module, you'll have a solid understanding of intermediate Pyt
 
 ### Prerequisites
 
-- [Intro to Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/Intro-to-Python/canvas-landing-pages/itb.html)
-- [Intro to Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/canvas-landing-pages/itb.html)
+- [Intro to Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python/)
+- [Intro to Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/)
 
 ### Course landing pages
 
