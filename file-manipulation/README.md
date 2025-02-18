@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intermediate Python Lecture</span>
+  <span class="headline">Intermediate Python for Scripting</span>
   <span class="subhead">File Handling and Read/Write Operations</span>
 </h1>
 

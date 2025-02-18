@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intermediate Python</span>
+  <span class="headline">Intermediate Python for Scripting</span>
   <span class="subhead">Modules and Packages</span>
 </h1>
 

@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Intermediate Python Lecture</span>
+  <span class="headline">Intermediate Python for Scripting</span>
 </h1>
 
 ## About
@@ -31,8 +31,8 @@ By the end of this module, you'll have a solid understanding of intermediate Pyt
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python/canvas-landing-pages/ITB.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python-for-scripting/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python-for-scripting/canvas-landing-pages/fallback.html)
 
 ### Resources
 
