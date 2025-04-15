@@ -2,9 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+functionConcepts = new Template.Microlesson {
+  friendlyName = "Function Concepts"
+  dirName = "functions-concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
 functionsAndModularCode = new Template.Microlesson {
-  friendlyName = "Functions and Modular Code Organization"
+  friendlyName = "Functions and Modular Code"
   dirName = "functions-and-modular-code"
+  type = "Content"
+  videoUrl = ""
+}
+
+functionParameters = new Template.Microlesson {
+  friendlyName = "Function Parameters"
+  dirName = "function-parameters"
   type = "Content"
   videoUrl = ""
 }
@@ -16,15 +37,15 @@ modulesAndPackages = new Template.Microlesson {
   videoUrl = ""
 }
 
-fileHandling = new Template.Microlesson {
-  friendlyName = "File Handling and Read/Write Operations"
-  dirName = "file-manipulation"
+workingWithFiles = new Template.Microlesson {
+  friendlyName = "Working With Files"
+  dirName = "working-with-files"
   type = "Content"
   videoUrl = ""
 }
 
 controlFlowAndLooping = new Template.Microlesson {
-  friendlyName = "Advanced Control Flow and Looping"
+  friendlyName = "Control Flow and Looping"
   dirName = "control-flow-and-looping"
   type = "Content"
   videoUrl = ""

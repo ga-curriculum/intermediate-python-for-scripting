@@ -20,8 +20,38 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Functions and Modular Code Organization",
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Function Concepts",
+          "dirName": "functions-concepts",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Functions and Modular Code",
           "dirName": "functions-and-modular-code",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Function Parameters",
+          "dirName": "function-parameters",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +70,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "File Handling and Read/Write Operations",
-          "dirName": "file-manipulation",
+          "friendlyName": "Working With Files",
+          "dirName": "working-with-files",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,7 +80,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Advanced Control Flow and Looping",
+          "friendlyName": "Control Flow and Looping",
           "dirName": "control-flow-and-looping",
           "type": "Content",
           "skill": "",
@@ -99,8 +129,38 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Functions and Modular Code Organization",
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Function Concepts",
+          "dirName": "functions-concepts",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Functions and Modular Code",
           "dirName": "functions-and-modular-code",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Function Parameters",
+          "dirName": "function-parameters",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +179,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "File Handling and Read/Write Operations",
-          "dirName": "file-manipulation",
+          "friendlyName": "Working With Files",
+          "dirName": "working-with-files",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -129,9 +189,9 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Advanced Control Flow and Looping",
+          "friendlyName": "Control Flow and Looping",
           "dirName": "control-flow-and-looping",
-          "type": "Content",
+          "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
           "videoUrl": "",
@@ -141,7 +201,7 @@
         {
           "friendlyName": "Debugging and Error Handling",
           "dirName": "debugging-and-error-handling",
-          "type": "Content",
+          "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
           "videoUrl": "",
