@@ -11,7 +11,7 @@ setup = new Template.Microlesson {
 
 functionConcepts = new Template.Microlesson {
   friendlyName = "Function Concepts"
-  dirName = "functions-concepts"
+  dirName = "function-concepts"
   type = "Content"
   videoUrl = ""
 }

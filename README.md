@@ -29,8 +29,8 @@ By the end of this module, you'll have a solid understanding of intermediate Pyt
 
 ### Prerequisites
 
-- [Intro to Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python/)
-- [Intro to Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/)
+- Intro to Python for Scripting
+- Intro to Python for Scripting Lab
 
 ### Course landing pages
 
