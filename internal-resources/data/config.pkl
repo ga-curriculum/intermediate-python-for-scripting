@@ -24,24 +24,33 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.functionConcepts
       mls.functionsAndModularCode
+      mls.functionParameters
       mls.modulesAndPackages
-      mls.fileHandling
+      mls.workingWithFiles
       mls.controlFlowAndLooping
       mls.debuggingAndErrorHandling
     }
   }
 
     new {
-    // Do not remove this fallback course!
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.functionConcepts
       mls.functionsAndModularCode
+      mls.functionParameters
       mls.modulesAndPackages
-      mls.fileHandling
-      mls.controlFlowAndLooping
-      mls.debuggingAndErrorHandling
+      mls.workingWithFiles
+      (mls.controlFlowAndLooping) {
+        type = "Level Up content"
+      }
+      (mls.debuggingAndErrorHandling) {
+        type = "Level Up content"
+      }
     }
   }
 }
