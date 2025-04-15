@@ -16,7 +16,7 @@ By the end of this module, you'll have a solid understanding of intermediate Pyt
 | [Functions and Modular Code](../functions-and-modular-code/README.md) |         25 min | Using functions to make code reusable.                   |
 | [Function Parameters](../function-parameters/README.md)               |         20 min | Using parameters and understanding scope.                |
 | [Modules and Packages](../modules-and-packages/README.md)             |         20 min | Organizing code effectively and using modules.           |
-| [Working With Files](../file-manipulation/README.md)                  |         25 min | Utilizing modules and manipulating files to update data. |
+| [Working With Files](../working-with-files/README.md)                 |         25 min | Utilizing modules and manipulating files to update data. |
 | **Total content**                                                     | 1 hours 45 min |                                                          |
 
 ## Level Up content
