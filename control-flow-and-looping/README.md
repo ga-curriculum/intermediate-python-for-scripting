@@ -3,7 +3,7 @@
   <span class="subhead">Control Flow and Looping</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will learn advanced control flow techniques and looping patterns and understand how to use list comprehensions and generator expressions.
+**Learning objective:** By the end of this lesson, students will be able to employ advanced control flow techniques and looping patterns and understand how to use list comprehensions and generator expressions.
 
 ## Nested loops and conditional statements
 
