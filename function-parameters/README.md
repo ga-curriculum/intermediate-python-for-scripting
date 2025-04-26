@@ -3,7 +3,7 @@
   <span class="subhead">Function Parameters</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to utilize different types of function parameters, understand variable scope, and follow best practices for writing functions in Python.
+**Learning objective:** By the end of this lesson, students will be able to utilize different types of function parameters in Python.
 
 ## Function parameter types
 
