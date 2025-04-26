@@ -3,7 +3,7 @@
   <span class="subhead">Modules and Packages</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will understand how to create, import, and use modules in Python. They'll also learn about packages and how to organize code into directories.
+**Learning objective:** By the end of this lesson, students will understand how to import and use modules in Python.
 
 ## Using built-in modules
 
